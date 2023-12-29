@@ -1,2 +1,2 @@
-# C-
+# C Sharp
 :art: C# Basic
